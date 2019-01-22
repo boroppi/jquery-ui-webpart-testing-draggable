@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "jquery-draggable-client-side-solution",
+    "id": "e289ad1c-2199-4798-a643-4ee30ce11b0b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/jquery-draggable.sppkg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "jquery-draggable",
+    "libraryId": "e289ad1c-2199-4798-a643-4ee30ce11b0b",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
